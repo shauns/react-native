@@ -112,6 +112,7 @@
     "README.md",
     "jestSupport",
     ".flowconfig",
+    "flow",
     "npm-shrinkwrap.json"
   ],
   "scripts": {
